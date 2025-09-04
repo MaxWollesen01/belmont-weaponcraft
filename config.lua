@@ -3,7 +3,7 @@ return {
         {
             coords = {1215.4188, -488.7106, 67.1643},
             heading = 258.3548,
-            label = 'Våbenbænk',
+            label = 'Weapon bench',
             icon = 'fa-solid fa-gun',
             jobs = false -- or { 'police', 'mechanic' } for job-lock
         }
@@ -29,7 +29,7 @@ return {
         },
                         {
             name = 'at_suppressor_light',
-            label = 'Lyddæmper',
+            label = 'Suppressor',
             items = {
                 { name = 'metalscrap', count = 10 },
             },
